@@ -1,7 +1,8 @@
 ### Oi, eu sou Cleverson Silva 👋
 
-![CleversonSilva10 GitHub stats](https://github-readme-stats.vercel.app/api?username=cleversonsilva10&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleversonsilva10)](https://github.com/cleversonsilva10/github-readme-stats)
+![CleversonSilva10 GitHub stats](https://github-readme-stats.vercel.app/api?username=cleversonsilva10&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleversonsilva10&theme=dark)](https://github.com/cleversonsilva10/github-readme-stats)
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleversonps/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.cleversonsilva/)
