@@ -19,3 +19,9 @@
 
 ### Study in the moment:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{cleversonsilva10}/count.svg" /></p> 
+<br>
+</div>
